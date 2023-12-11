@@ -33,7 +33,7 @@
 /* Disable the animations in case the user has set the mode to no animation */
 /*
 @media (prefers-reduced-motion: reduce) {
-  * {
+  {
     -webkit-animation: none !important;
             animation: none !important;
     -webkit-transition: none !important;
